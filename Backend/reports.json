@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "reporterName": "Sakshi",
+    "contact": "1234567892",
+    "incidentDate": "2021-04-05",
+    "transactionId": "7895461230",
+    "amount": "8000",
+    "incidentType": "UPI Scam",
+    "description": "Received a fake UPI payment request and lost money.\n",
+    "additionalInfo": "Transaction was made through a suspicious UPI ID.",
+    "status": "Investigating"
+  },
+  {
+    "id": 2,
+    "reporterName": "Suresh",
+    "contact": "9467890123",
+    "incidentDate": "2005-02-08",
+    "transactionId": "5874963210",
+    "amount": "9999",
+    "incidentType": "UPI Scam",
+    "description": "Received a fake UPI payment request and lost money.",
+    "additionalInfo": "Transaction was made through a suspicious UPI ID.",
+    "status": "Resolved"
+  },
+  {
+    "id": 3,
+    "reporterName": "Anushka",
+    "contact": "9547863226",
+    "incidentDate": "2002-02-26",
+    "transactionId": "8451236987",
+    "amount": "100000",
+    "incidentType": "Fake Customer Care",
+    "description": "A person contacted me pretending to be customer care and asked for payment.",
+    "additionalInfo": "The person contacted me through a phone call.",
+    "status": "Pending"
+  }
+]
